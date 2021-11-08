@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/andrejpejcinovic/React-Login-Form/static/css/main.8557f35f.chunk.css",
+    "main.js": "/andrejpejcinovic/React-Login-Form/static/js/main.e550f2da.chunk.js",
+    "main.js.map": "/andrejpejcinovic/React-Login-Form/static/js/main.e550f2da.chunk.js.map",
+    "runtime-main.js": "/andrejpejcinovic/React-Login-Form/static/js/runtime-main.1a3b757c.js",
+    "runtime-main.js.map": "/andrejpejcinovic/React-Login-Form/static/js/runtime-main.1a3b757c.js.map",
+    "static/css/2.09699a42.chunk.css": "/andrejpejcinovic/React-Login-Form/static/css/2.09699a42.chunk.css",
+    "static/js/2.d99c13e7.chunk.js": "/andrejpejcinovic/React-Login-Form/static/js/2.d99c13e7.chunk.js",
+    "static/js/2.d99c13e7.chunk.js.map": "/andrejpejcinovic/React-Login-Form/static/js/2.d99c13e7.chunk.js.map",
+    "index.html": "/andrejpejcinovic/React-Login-Form/index.html",
+    "precache-manifest.dc2554ab37a9d15974bbe7f120b71428.js": "/andrejpejcinovic/React-Login-Form/precache-manifest.dc2554ab37a9d15974bbe7f120b71428.js",
+    "service-worker.js": "/andrejpejcinovic/React-Login-Form/service-worker.js",
+    "static/css/2.09699a42.chunk.css.map": "/andrejpejcinovic/React-Login-Form/static/css/2.09699a42.chunk.css.map",
+    "static/css/main.8557f35f.chunk.css.map": "/andrejpejcinovic/React-Login-Form/static/css/main.8557f35f.chunk.css.map",
+    "static/js/2.d99c13e7.chunk.js.LICENSE": "/andrejpejcinovic/React-Login-Form/static/js/2.d99c13e7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a3b757c.js",
+    "static/css/2.09699a42.chunk.css",
+    "static/js/2.d99c13e7.chunk.js",
+    "static/css/main.8557f35f.chunk.css",
+    "static/js/main.e550f2da.chunk.js"
+  ]
+}
